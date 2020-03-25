@@ -1,0 +1,3 @@
+[submodule "dlaicourse"]
+	path = dlaicourse
+	url = git@github.com:jandvanegas/dlaicourse.git
