@@ -1,3 +1,6 @@
 [submodule "dlaicourse"]
 	path = dlaicourse
 	url = git@github.com:jandvanegas/dlaicourse.git
+[submodule "fashion-mnist"]
+	path = fashion-mnist
+	url = https://github.com/zalandoresearch/fashion-mnist.git
