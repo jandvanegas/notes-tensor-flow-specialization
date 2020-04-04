@@ -52,3 +52,7 @@ More details on convolution go [here](https://bit.ly/2UGa7uH)
 You can play with this [notebook](https://github.com/jandvanegas/dlaicourse/blob/393039e05c0772e6d70add45212d9e1b3c2686b9/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb) to understand convolutions and pooling better.
 
 To understand convolution better, you can use this [notebook](https://github.com/jandvanegas/dlaicourse/blob/393039e05c0772e6d70add45212d9e1b3c2686b9/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb), and read this [article](https://lodev.org/cgtutor/filtering.html)
+
+## Resources
+* [Adding convolutions to Fashion MNIST](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb)
+* [Exploring how convolutions and pooling work](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
