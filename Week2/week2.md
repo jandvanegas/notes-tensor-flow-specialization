@@ -40,3 +40,9 @@ callbacks = myCallback()
 model.fit(training_data, training_labels, epoch=5, callbacks=[callback])
 ```
 [Here](https://github.com/jandvanegas/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb) is the completed code.
+
+## Week Resources to play with
+
+* [Beyond Hello, World - A computer vision Example](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%202%20-%20Notebook.ipynb)
+* [Exploring Callback](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb)
+* [Exercise 2 - Handwriting Recognition -Answer](https://github.com/lmoroney/dlaicourse/blob/master/Exercises/Exercise%202%20-%20Handwriting%20Recognition/Exercise2-Answer.ipynb)
