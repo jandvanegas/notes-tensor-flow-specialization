@@ -37,7 +37,7 @@ class myCallback(tf.keras.callbacks.Callback):
 
 callbacks = myCallback()
 
-model.fit(training_data, training_labels, epoch=5, callbacks=[callback])
+model.fit(training_data, training_labels, epochs=5, callbacks=[callback])
 ```
 [Here](https://github.com/jandvanegas/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb) is the completed code.
 
