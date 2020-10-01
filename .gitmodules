@@ -1,5 +1,5 @@
 [submodule "dlaicourse"]
-	path = Course1IntroductionTF/dlaicourse/dlaicourse
+	path = dlaicourse/dlaicourse
 	url = git@github.com:jandvanegas/dlaicourse.git
 [submodule "fashion-mnist"]
 	path = Course1IntroductionTF/fashion-mnist/fashion-mnist
